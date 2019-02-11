@@ -14,7 +14,7 @@ import Typography from "typography"
 
 //const typography = new Typography(Wordpress2016)
 const typography = new Typography({
-	baseFontSize: '15px',
+	baseFontSize: '16px',
 	baseLineHeight: 1.666,	
 
 })
