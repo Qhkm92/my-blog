@@ -1,6 +1,6 @@
 ---
 title: GAAIGNAG
-date: "Now"
+date: "2015-05-01T22:12:03.284Z"
 ---
 
 Wow! I love blogging so much already.
