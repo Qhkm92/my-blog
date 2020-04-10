@@ -1,6 +1,7 @@
 ---
 title: GAAIGNAG
 date: "2015-05-01T22:12:03.284Z"
+categories: ["blog"]
 ---
 
 Wow! I love blogging so much already.
@@ -10,9 +11,8 @@ dsadjklasdjkla
 djskladjskald
 djskadjl
 
-``` js
+```js
 function() {
     console.log('hello')
 }
 ```
-

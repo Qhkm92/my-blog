@@ -1,3 +1,9 @@
+---
+title: learn golang
+date: "2015-05-06T23:46:37.121Z"
+categories: ["golang", "learn"]
+---
+
 #11111111
 Golang is a very easy to learn language but there are some things might be hard for developers who are coming from high level languange like javascript like me to comprehend. And one of that is the use of **pointer**.
 
@@ -5,12 +11,12 @@ Golang is a very easy to learn language but there are some things might be hard 
 
 Pointer in go refers to the memory address
 
-``` go
+```go
 package main
 
 import “fmt”
 
-// Person は人間を表す構造体。
+// Person は人間を表す構造体。khhjjj
 type Person struct {
     Name string
     Age  int
@@ -19,7 +25,7 @@ type Person struct {
 func main() {
     // ポインタ型の変数を宣言する
     // pがポインタ型変数
-	  // p is a variable with type pointer 
+	  // p is a variable with type pointer
     // *Personポインタ型
     // *Person type pointer
     var p *Person
@@ -34,23 +40,23 @@ func main() {
 
 ```
 
-So if we refer to the example above, first we declare the variable p with type *Person type pointer `var p *Person` 
+So if we refer to the example above, first we declare the variable p with type *Person type pointer `var p *Person`
 
-int型のポインター変数
-`var pointer *int` 
+int 型のポインター変数
+`var pointer *int`
 
-String型のポインター変数
-`var pointer *string` 
+String 型のポインター変数
+`var pointer *string`
 
-Person型のポインター変数
-`var pointer *Person` 
+Person 型のポインター変数
+`var pointer *Person`
 
-Variable 
+Variable
 Pointer variable
 
-``` c
-//declare var a 
-int a 
+```c
+//declare var a
+int a
 a = 3
 
 //declare pointer variable p
@@ -66,12 +72,11 @@ printf("%d\n", *p) // 3
 
 a = 5
 
-printf("%d\n", *p) // 5 
+printf("%d\n", *p) // 5
 
 ```
 
-So when we say its a pointer to an integer, it means that it points to a variable that is of type integer. Omg how easy it is after that aha moments.
+So when we say its a pointter to an integer, it means that it points to a variable that is of type integer. Omg how easy it is after that aha moments.
 
 #golang
 [The Go Playground](https://play.golang.org/p/3DlDydJtRLD)
-
