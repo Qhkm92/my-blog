@@ -23,15 +23,15 @@ class BlogIndex extends React.Component {
           const title = node.frontmatter.title || node.fields.slug;
           return (
             <div key={node.fields.slug}>
-              <h3
+              <span
                 style={{
                   marginBottom: rhythm(1 / 4),
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
+                  {`${title} - `}
                 </Link>
-              </h3>
+              </span>
               <small>{node.frontmatter.date} </small>
               {node &&
                 node.frontmatter &&
@@ -44,11 +44,13 @@ class BlogIndex extends React.Component {
                     </Link>
                   );
                 })}
-
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
             </div>
           );
         })}
+        <br />
+        <br />
+        <br />
+        <br />
       </Layout>
     );
   }
