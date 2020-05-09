@@ -1,4 +1,8 @@
-# OMG Jishin.
+---
+title: "Jishin omg"
+date: "2018-07-06T23:46:37.121Z"
+categories: ["blog" ]
+---
 
 ## 2 jishin berskala 4 
 
