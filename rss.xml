@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Qhkm92 Blog]]></title><description><![CDATA[A blog to compile my dev journey.]]></description><link>https://gatsby-starter-blog-demo.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Jul 2020 11:35:38 GMT</lastBuildDate><item><title><![CDATA[Haha]]></title><description><![CDATA[testing sahaja tak
-dsadhasjdk
-djhskadhsa
-dhsjadhjks
-st]]></description><link>https://gatsby-starter-blog-demo.netlify.com//haha/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//haha/</guid><pubDate>Fri, 01 May 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;testing sahaja tak
-dsadhasjdk
-djhskadhsa
-dhsjadhjks
-st&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jishin omg]]></title><description><![CDATA[2 jishin berskala 4 Dalam 2 3 hari ni ramai org kt jepun ni mula riuh, di dunia realiti dan juga di alam maya dengan jishin berskala lebih…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//jishin-omg/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//jishin-omg/</guid><pubDate>Fri, 06 Jul 2018 23:46:37 GMT</pubDate><content:encoded>&lt;h2&gt;2 jishin berskala 4&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Qhkm92 Blog]]></title><description><![CDATA[A blog to compile my dev journey.]]></description><link>https://gatsby-starter-blog-demo.netlify.com/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 10 Aug 2020 04:52:57 GMT</lastBuildDate><item><title><![CDATA[Jishin omg]]></title><description><![CDATA[2 jishin berskala 4 Dalam 2 3 hari ni ramai org kt jepun ni mula riuh, di dunia realiti dan juga di alam maya dengan jishin berskala lebih…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//jishin-omg/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//jishin-omg/</guid><pubDate>Fri, 06 Jul 2018 23:46:37 GMT</pubDate><content:encoded>&lt;h2&gt;2 jishin berskala 4&lt;/h2&gt;
 &lt;p&gt;Dalam 2 3 hari ni ramai org kt jepun ni mula riuh, di dunia realiti dan juga di alam maya dengan jishin berskala lebih dari 4 yg berlaku 2 kali dalam jangka waktu selang beberapa hari sahaja. Semua org macam, “hmm ok ke ni”. Kalau dekat twitter tu, penuh org jepun, smua macam “ish jepun ok ke ni.Takutttt “toka.&lt;/p&gt;
 &lt;p&gt;Bukan ape kan, sebab sejak dari aku first time menjejakkan kaki dekat jepun ni, memang da dengar dah ura2 yg jishin besar bakal berlaku dalam 10 tahun kedepan ni. Sebab tu semua orang alert. &lt;/p&gt;
 &lt;p&gt;Hopefully xde la jishin besar dalam masa terdekat ni. Sebab skrang ni pun tengah wabak korona. so kalau jadi jishin besar mmg 2 kali ganda la musibahnya.&lt;/p&gt;
@@ -14,12 +6,7 @@ st&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jishin omg]]></title>
 &lt;p&gt;Korg bleh try dengar bunyi tu dekat utube ke ape. Walaupun bunyi dia agak anoyying tapi aku rasa mmg effectif la sebab bunyi dia mmg kuat dan make sure smua org tukar mode kepada mode alert. Tngh terberak pun taik bleh terpotong sparuh tau. 😂 &lt;/p&gt;
 &lt;p&gt;Aku tak sure dekat malaysia ada tak sistem ni tapi kita pun tahu, Malaysia ni relitively sebuah negara yg agak selamat, bebas dari segala macam bencana alam. So bersyukur la korg dan doakan aku n the gang kt jepun ni semua selamat ye. 🙃&lt;/p&gt;
 &lt;p&gt;Tu je perkongsian aku hari ni. Terima kasih kerana sudi membaca 😬&lt;/p&gt;
-&lt;h1&gt;diary&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[This is how i blog]]></title><description><![CDATA[This is the blog im writing on golang 
-How we can add more pattern to this]]></description><link>https://gatsby-starter-blog-demo.netlify.com//test-golang/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//test-golang/</guid><pubDate>Tue, 01 May 2018 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is the blog im writing on golang
-How we can add more pattern to this&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;hello&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+&lt;h1&gt;diary&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//hi-folks/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//hi-folks/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
@@ -112,65 +99,7 @@ would be the word “and” and the Little Blind Text should turn around and ret
 to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[learn golang]]></title><description><![CDATA[11111111 Golang is a very easy to learn language but there are some things might be hard for developers who are coming from high level…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//lol/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//lol/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;h1&gt;11111111&lt;/h1&gt;
-&lt;p&gt;Golang is a very easy to learn language but there are some things might be hard for developers who are coming from high level languange like javascript like me to comprehend. And one of that is the use of &lt;strong&gt;pointer&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2&gt;Pointer&lt;/h2&gt;
-&lt;p&gt;Pointer in go refers to the memory address&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;go&quot;&gt;&lt;pre class=&quot;language-go&quot;&gt;&lt;code class=&quot;language-go&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;package&lt;/span&gt; main
-
-&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; “fmt”
-
-&lt;span class=&quot;token comment&quot;&gt;// Person は人間を表す構造体。khhjjj&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;type&lt;/span&gt; Person &lt;span class=&quot;token keyword&quot;&gt;struct&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    Name &lt;span class=&quot;token builtin&quot;&gt;string&lt;/span&gt;
-    Age  &lt;span class=&quot;token builtin&quot;&gt;int&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;func&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token comment&quot;&gt;// ポインタ型の変数を宣言する&lt;/span&gt;
-    &lt;span class=&quot;token comment&quot;&gt;// pがポインタ型変数&lt;/span&gt;
-	  &lt;span class=&quot;token comment&quot;&gt;// p is a variable with type pointer&lt;/span&gt;
-    &lt;span class=&quot;token comment&quot;&gt;// *Personポインタ型&lt;/span&gt;
-    &lt;span class=&quot;token comment&quot;&gt;// *Person type pointer&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; p &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;Person
-
-    p &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&lt;/span&gt;Person&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-        Name&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; “太郎”&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-        Age&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;token number&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-    fmt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;Printf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;“p &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;v\n”&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-    fmt&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;Printf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;“変数pに格納されているアドレス &lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;%&lt;/span&gt;p”&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;So if we refer to the example above, first we declare the variable p with type *Person type pointer &lt;code class=&quot;language-text&quot;&gt;var p *Person&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;int 型のポインター変数
-&lt;code class=&quot;language-text&quot;&gt;var pointer *int&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;String 型のポインター変数
-&lt;code class=&quot;language-text&quot;&gt;var pointer *string&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Person 型のポインター変数
-&lt;code class=&quot;language-text&quot;&gt;var pointer *Person&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Variable
-Pointer variable&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;c&quot;&gt;&lt;pre class=&quot;language-c&quot;&gt;&lt;code class=&quot;language-c&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//declare var a&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; a
-a &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;//declare pointer variable p&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;p
-
-&lt;span class=&quot;token comment&quot;&gt;//we insert into variable p with the adress of var a&lt;/span&gt;
-p &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&lt;/span&gt;a
-
-&lt;span class=&quot;token comment&quot;&gt;//Print out all the values&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;%d\n&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; a&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 3&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;%d\n&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// address of a&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;%d\n&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 3&lt;/span&gt;
-
-a &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;
-
-&lt;span class=&quot;token function&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;%d\n&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 5&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;So when we say its a pointter to an integer, it means that it points to a variable that is of type integer. Omg how easy it is after that aha moments.&lt;/p&gt;
-&lt;h1&gt;golang&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://play.golang.org/p/3DlDydJtRLD&quot;&gt;The Go Playground&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Third Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
+for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Third Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
 chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//third-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//third-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
 &lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
@@ -185,15 +114,7 @@ chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-de
 chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich.”?
 (&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[GAAIGNAG]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-dsadjklasdjkla…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//again/again/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//again/again/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-dsadjklasdjkla
-djskladjskald
-djskadjl&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;hello&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//hello-world/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.com//hello-world/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com//hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
