@@ -1,5 +1,5 @@
 module.exports = {
-    pathPrefix: "/my-blog",
+  pathPrefix: '/my-blog',
   siteMetadata: {
     title: `Qhkm92 Blog`,
     author: `Qhkm92`,
@@ -10,6 +10,12 @@ module.exports = {
     },
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: 'qhkmdev90',
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -85,7 +91,7 @@ module.exports = {
         // you may use this to prevent Prism from re-processing syntax.
         // This is an uncommon use-case though;
         // If you're unsure, it's best to use the default value.
-        classPrefix: "language-",
+        classPrefix: 'language-',
       },
     },
   ],

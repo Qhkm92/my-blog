@@ -5,7 +5,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions;
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`);
-  const categoriesPost = path.resolve("./src/templates/category-list.js");
+  const categoriesPost = path.resolve('./src/templates/category-list.js');
   const result = await graphql(
     `
       {
@@ -47,7 +47,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         return node.frontmatter.categories.includes(category);
       }
     });
-    console.info(filteredIds);
+    // console.info(filteredIds);
     const ids = filteredIds.map(({ node }) => node.id);
     createPage({
       path: `category/${category}`,

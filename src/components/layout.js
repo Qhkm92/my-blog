@@ -1,7 +1,7 @@
-import React from "react";
-import { Link } from "gatsby";
+import React from 'react';
+import { Link } from 'gatsby';
 
-import { rhythm } from "../utils/typography";
+import { rhythm } from '../utils/typography';
 
 class Layout extends React.Component {
   render() {
@@ -12,7 +12,7 @@ class Layout extends React.Component {
     header = (
       <h3
         style={{
-          fontSize: "2.5em",
+          fontSize: '2.5em',
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
         }}

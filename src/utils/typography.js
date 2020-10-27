@@ -1,4 +1,4 @@
-import Typography from "typography"
+import Typography from 'typography';
 //import Wordpress2016 from "typography-theme-wordpress-2016"
 
 // Change themes
@@ -14,16 +14,15 @@ import Typography from "typography"
 
 //const typography = new Typography(Wordpress2016)
 const typography = new Typography({
-	baseFontSize: '17px',
-	baseLineHeight: 1.666,	
-
-})
+  baseFontSize: '17px',
+  baseLineHeight: 1.666,
+});
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {
-  typography.injectStyles()
+  typography.injectStyles();
 }
 
-export default typography
-export const rhythm = typography.rhythm
-export const scale = typography.scale
+export default typography;
+export const rhythm = typography.rhythm;
+export const scale = typography.scale;
