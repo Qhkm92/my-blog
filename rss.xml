@@ -1,185 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Qhkm92 Blog]]></title><description><![CDATA[A blog to compile my dev journey.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jan 2021 05:45:33 GMT</lastBuildDate><item><title><![CDATA[Kereta terbang maglev]]></title><description><![CDATA[Kelmarin masa random2 buka tv tertengok satu konten rancangan menarik yg buat saye rasa nak share. Video saya sertakan dalam post ini sekali…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/kereta-terbang-shinkan/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/kereta-terbang-shinkan/</guid><pubDate>Sun, 03 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Kelmarin masa random2 buka tv tertengok satu konten rancangan menarik yg buat saye rasa nak share. Video saya sertakan dalam post ini sekali ( translation tak rajin nak buat so siapa yg bleh nihonggo silakan ).
-.&lt;/p&gt;
-&lt;p&gt;actually masa belajar tahun 2013 lagi dah dengar2 diorg ada test run dekat yamanashi track tu tapi masa tu tak de la betul2 minat nak search. Tahu2 bila tertengok balik channel ni, baru tahu train tu da dekat nak deploy to public use. Terkezut jap. (Pembetulan, official opening dijangkakan 2027, tapi untuk orang awam boleh pergi experience dekat track khas adalah dijangkakan tahun ini.
-.&lt;/p&gt;
-&lt;p&gt;Sedikit trivia tentang Maglev ni. Teknologi yg dipakai untuk train ini berbeza dengan conventional train dimana train jenis ini menggunakan asas prinsip magnet “electromagnetic propulsion”, sejenis magnet yg apabila disejukkan ke tahap ekstrim, akan menjadi magnet yg maha kuat.  (magnetic levitation) basically kereta terbang.
-.&lt;/p&gt;
-&lt;p&gt;Bila kereta ni terbang di atas landasan, means less vibration (lebih selesa) dan less friction (kurang maintainance cost disebabkan wear and tear). &lt;/p&gt;
-&lt;p&gt;Kelajuan maksimum dalam 500 kilometer per jam. 2 kali ganda dari  konsep ni sama dengan yg elon musk nk pakai untuk hyperloop. Merujuk pada video tu, apabila mencapai lebih kurang kelajuan 150kph, baru akan mode train ni akan bertukar dari mode menggunakan tayar kepada mode maglev ni. &lt;/p&gt;
-&lt;p&gt;Research tentang maglev ni telah ongoing sejak dari tahun 70an lagi. Cuba bayangkan berapa banyak duit yg dah dipam untuk RnD sahaja. Memang tak dinafikan bukan perkara yg mudah, average hidup manusia, nak kata kerja2 RnD ni bukan mudah, ambil masa, dan perlukan kepakaran dan sumber yg sangat banyak. Tapi bila tapi nak stay competitive among the giants, ini adalah contoh ciri2 producing nations yg kita dapat ambil. &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.energy.gov/articles/how-maglev-works&quot;&gt;How Maglev Works | Department of Energy&lt;/a&gt;
-&lt;a href=&quot;https://science.howstuffworks.com/transport/engines-equipment/maglev-train.htm&quot;&gt;Maglev Train&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Learning kubernetes]]></title><description><![CDATA[Introduction to kubernetes Here’s a few things that i should mention of how we should understand certain things in kubernetes. It’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/learning-kube/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/learning-kube/</guid><pubDate>Mon, 06 Jul 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction to kubernetes&lt;/h2&gt;
-&lt;p&gt;Here’s a few things that i should mention of how we should understand certain things in kubernetes. It’s a container orchestration tools and it helps us to manage a cluster of containers&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test another one]]></title><description><![CDATA[This is another blog post So today i’m thinking of writing another topic.
-So what’s the different between IT and Software Development…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/test-another-one/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/test-another-one/</guid><pubDate>Thu, 02 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;This is another blog post&lt;/h2&gt;
-&lt;p&gt;So today i’m thinking of writing another topic.
-So what’s the different between IT and Software Development.&lt;/p&gt;
-&lt;p&gt;Software Development is building software.
-IT is IT support. Installing device. Fixing network bla2.&lt;/p&gt;
-&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[qhkm]]></title><description><![CDATA[A concious effort to take more notes and share what what.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Jan 2021 06:19:39 GMT</lastBuildDate><item><title><![CDATA[Kereta terbang maglev]]></title><description><![CDATA[Kelmarin masa random2 buka tv tertengok satu konten rancangan menarik yg buat saye rasa nak share. Video saya sertakan dalam post ini sekali…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/kereta-terbang-shinkan/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/kereta-terbang-shinkan/</guid><pubDate>Sun, 03 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/my-blog/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 512px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD2klEQVQ4y3WUW2xUVRSGDyY+8MCLTxofvNNWqPY61Wgk4IvxEmI1ktpxOm2n01IKCg8gCYpGgxgkpTB3LjOlnaYNDQGaaC0kpbaVS0molWYql9SMGDWxRBrajt3nrOX6d+cMo5aTrOx99uXba61/7W14i0MGvrqikOEtDt+HvqcgeH+DI/LO+rKDnQ2lkUmZU2JmfWkkKWPdMlcp/0uxFnvqisJGum/YnSVNLxy2+2tlQ6KhKMrVuRF2LfezpyDEnsIQu3L87M6JcENhlGXNDVlbYRh3GRlqFmzXBkeM3Xkh3vTSEdWxe1D9OJy0bl6bopvXp2j83C/Utfd7tXl1TLlzg9zkOMreknBLFtTIhAnYprI4V+X5zOjOfnM+pYiZCbCRvut0sfcaJX/6U49ZpsXxLwbNqqd9qqm0netLwr502jJeroVngPVELlmyiS/3T9KONztJNrFz+X5trjwfb3+jg85/fRVg7u+6QrJXpT11GlkCJBAmPMPCk8ERqnxqP7tX+HE6ixgLJv3qlX6ueHwfH2s+R5ZF/PFbXWZtfhhzSYEvM6AmBGh68bD6e07R6MDP5BSYNw2SRf8yjEloIlSQt73aTmjh5YbSVrQeA6UBNeVEhfxsfz1O8EwO0huzYfa/9lqs5pkAWrKBMt9joM6qcgMc+/Qsckd9bT/oXGlIyV1Idlv7bFAbvJOWxKz1JUcwPw5lFMJY92gzdXw5pJN9Oj7GrtwDi0LhmZRUxj5YHaP3V0WpvlhHNGNIwZqNzx/i0NY+qnyyhdp3fceLQQFyiyAflXfy9NQsp2bneWY6xTO3UzQx8ivVFeq0zBm4TrgBKNqhkxNU/uAeju8e/B8UUSDMzWti3N1ynk/4LyLvfOevOZq88odVu1JXQQKidEMUgWhRvm0dpbcf3rs4VLxE3t6T/4rH9rHkn01lUU/4kgmGCPkNysaJu7nl5VY1fWuWbWHuBYX6jc8dZEkPD3SP65x/+Fpc1Rfo+90IUZbiouNuiii6sO8JFfVr8gO6sGOf9GvYcd8F05UTgLe/CesB++pV4PpI0tWZjjGyob2to1z+0FdsC4VDRFE+e2zBs+FTE1SdH5jf6GiDcF4btvA4yKux0dGuoZ17hs07t1MaOnQiQe8+0ULiqX4Y0sbHD1wwF2Bx5DaaecIyj6J8eDXgaZWEv/WVNoXbc2Psd+voZwO07pFmavt8wOqNXTYxhzDhmQ3775u4JGvQKTlNQigoh3JoLDukFa1ZEdZjWgDJmaz1LgILZR5He7CuMLRMoB4pqR7xYFz+Z1C0UosJlAbUtAXAHnsfGP8An71yIvslifEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;gatsby icon&quot;
-        title=&quot;&quot;
-        src=&quot;/my-blog/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png&quot;
-        srcset=&quot;/my-blog/static/4a9773549091c227cd2eb82ccd9c5e3a/12f09/gatsby-icon.png 148w,
-/my-blog/static/4a9773549091c227cd2eb82ccd9c5e3a/e4a3f/gatsby-icon.png 295w,
-/my-blog/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png 512w&quot;
-        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jishin omg]]></title><description><![CDATA[2 jishin berskala 4 Dalam 2 3 hari ni ramai org kt jepun ni mula riuh, di dunia realiti dan juga di alam maya dengan jishin berskala lebih…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/jishin-omg/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/jishin-omg/</guid><pubDate>Fri, 06 Jul 2018 23:46:37 GMT</pubDate><content:encoded>&lt;h2&gt;2 jishin berskala 4&lt;/h2&gt;
-&lt;p&gt;Dalam 2 3 hari ni ramai org kt jepun ni mula riuh, di dunia realiti dan juga di alam maya dengan jishin berskala lebih dari 4 yg berlaku 2 kali dalam jangka waktu selang beberapa hari sahaja. Semua org macam, “hmm ok ke ni”. Kalau dekat twitter tu, penuh org jepun, smua macam “ish jepun ok ke ni.Takutttt “toka.&lt;/p&gt;
-&lt;p&gt;Bukan ape kan, sebab sejak dari aku first time menjejakkan kaki dekat jepun ni, memang da dengar dah ura2 yg jishin besar bakal berlaku dalam 10 tahun kedepan ni. Sebab tu semua orang alert. &lt;/p&gt;
-&lt;p&gt;Hopefully xde la jishin besar dalam masa terdekat ni. Sebab skrang ni pun tengah wabak korona. so kalau jadi jishin besar mmg 2 kali ganda la musibahnya.&lt;/p&gt;
-&lt;p&gt;By the way, Alert jishin kt jepun ni mmg lain macam sket klu korang nak tau. kalu korg dengar bunyi alert ni mmg akan rasa cuak sket. Bunyi ni dia built in dalam setiap fon yg kita beli dekat jepun .&lt;/p&gt;
-&lt;p&gt;Korg bleh try dengar bunyi tu dekat utube ke ape. Walaupun bunyi dia agak anoyying tapi aku rasa mmg effectif la sebab bunyi dia mmg kuat dan make sure smua org tukar mode kepada mode alert. Tngh terberak pun taik bleh terpotong sparuh tau. 😂 &lt;/p&gt;
-&lt;p&gt;Aku tak sure dekat malaysia ada tak sistem ni tapi kita pun tahu, Malaysia ni relitively sebuah negara yg agak selamat, bebas dari segala macam bencana alam. So bersyukur la korg dan doakan aku n the gang kt jepun ni semua selamat ye. 🙃&lt;/p&gt;
-&lt;p&gt;Tu je perkongsian aku hari ni. Terima kasih kerana sudi membaca 😬&lt;/p&gt;
-&lt;h1&gt;diary&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/hi-folks/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/hi-folks/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
-&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This however showed weasel&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Well uncritical so misled&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;this is very interesting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
-view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.&lt;/p&gt;
-&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;So baboon this&lt;/li&gt;
-&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
-&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
-&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
-impassive fruitlessly shut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and
-return to its own, safe country.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.&lt;/p&gt;
-&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
-&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Third Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/third-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/third-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-	console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;hello&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/my-second-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/hello-world/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/my-blog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    href=&quot;/my-blog/static/0e73a08e5fefe6f0d05bfdd94445c74b/3acf0/maglev.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -191,24 +13,38 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 60.810810810810814%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAVMYJKtJj//EABoQAAMAAwEAAAAAAAAAAAAAAAECAwASEyH/2gAIAQEAAQUC0NMospBbajvQqx9z/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAQMFAAAAAAAAAAAAAAAAAAECEBEhIjEy/9oACAEBAAY/AtF8nFEadCx//8QAHBAAAgEFAQAAAAAAAAAAAAAAAAERITFBUWFx/9oACAEBAAE/IaW+KSNc+E2MAJ2KMy0MfBmF4f/aAAwDAQACAAMAAAAQv/8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QV//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExUWGR/9oACAEBAAE/EKW4Gqn1ag+imDEXHIHxLxQJLFIdEd12ohheJ//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;Chinese Salty Egg&quot;
+        alt=&quot;Japanese maglev train&quot;
         title=&quot;&quot;
-        src=&quot;/my-blog/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg&quot;
-        srcset=&quot;/my-blog/static/8058f3f26913fea3b6a89a73344fe94a/a80bd/salty_egg.jpg 148w,
-/my-blog/static/8058f3f26913fea3b6a89a73344fe94a/1c91a/salty_egg.jpg 295w,
-/my-blog/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg 590w,
-/my-blog/static/8058f3f26913fea3b6a89a73344fe94a/a8a14/salty_egg.jpg 885w,
-/my-blog/static/8058f3f26913fea3b6a89a73344fe94a/fbd2c/salty_egg.jpg 1180w,
-/my-blog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        src=&quot;/my-blog/static/0e73a08e5fefe6f0d05bfdd94445c74b/1c72d/maglev.jpg&quot;
+        srcset=&quot;/my-blog/static/0e73a08e5fefe6f0d05bfdd94445c74b/a80bd/maglev.jpg 148w,
+/my-blog/static/0e73a08e5fefe6f0d05bfdd94445c74b/1c91a/maglev.jpg 295w,
+/my-blog/static/0e73a08e5fefe6f0d05bfdd94445c74b/1c72d/maglev.jpg 590w,
+/my-blog/static/0e73a08e5fefe6f0d05bfdd94445c74b/a8a14/maglev.jpg 885w,
+/my-blog/static/0e73a08e5fefe6f0d05bfdd94445c74b/fbd2c/maglev.jpg 1180w,
+/my-blog/static/0e73a08e5fefe6f0d05bfdd94445c74b/3acf0/maglev.jpg 2000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item></channel></rss>
+    &lt;/p&gt;
+&lt;p&gt;Kelmarin masa random2 buka tv tertengok satu konten rancangan menarik yg buat saye rasa nak share. Video saya sertakan dalam post ini sekali ( translation tak rajin nak buat so siapa yg bleh nihonggo silakan ).
+.&lt;/p&gt;
+&lt;p&gt;actually masa belajar tahun 2013 lagi dah dengar2 diorg ada test run dekat yamanashi track tu tapi masa tu tak de la betul2 minat nak search. Tahu2 bila tertengok balik channel ni, baru tahu train tu da dekat nak deploy to public use. Terkezut jap. (Pembetulan, official opening dijangkakan 2027, tapi untuk orang awam boleh pergi experience dekat track khas adalah dijangkakan tahun ini.
+.&lt;/p&gt;
+&lt;p&gt;Sedikit trivia tentang Maglev ni. Teknologi yg digunakan untuk train ini agak berbeza dengan “conventional” train dimana train jenis ini menggunakan “electromagnetic propulsion”. (magnetic levitation) untuk bergerak. Basically terapung di atas railway disebabkan oleh daya tolak magnet yang dihasilkan oleh superconductor. Untuk pembacaan yang lebih detail, boleh rujuk di &lt;a href=&quot;https://science.howstuffworks.com/transport/engines-equipment/maglev-train.htm&quot;&gt;sini&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;Apa benefit maglev ni? Pertama, bila kereta ni terapung di atas landasan, means less vibration (lebih selesa) dan less friction (kurang maintainance cost disebabkan wear and tear). &lt;/p&gt;
+&lt;p&gt;Kelajuan maksimum dalam 500 kilometer per jam. 2 kali ganda dari  konsep ni sama dengan yg elon musk nk pakai untuk hyperloop. Merujuk pada video tu, apabila mencapai lebih kurang kelajuan 150kph, baru akan mode train ni akan bertukar dari mode menggunakan tayar kepada mode maglev ni. &lt;/p&gt;
+&lt;p&gt;Research tentang maglev ni telah ongoing sejak dari tahun 70an lagi. Cuba bayangkan berapa banyak duit yg dah dipam untuk RnD sahaja. Memang tak dinafikan bukan perkara yg mudah, average hidup manusia, nak kata kerja2 RnD ni bukan mudah, ambil masa, dan perlukan kepakaran dan sumber yg sangat banyak. Tapi bila tapi nak stay competitive among the giants, ini adalah contoh ciri2 producing nations yg kita dapat ambil. &lt;/p&gt;
+&lt;h3&gt;Referensi&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.energy.gov/articles/how-maglev-works&quot;&gt;How Maglev Works | Department of Energy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://science.howstuffworks.com/transport/engines-equipment/maglev-train.htm&quot;&gt;Maglev Train&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
