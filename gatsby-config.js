@@ -94,5 +94,11 @@ module.exports = {
         classPrefix: 'language-',
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-11111111-1',
+      },
+    },
   ],
 };
