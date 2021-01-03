@@ -12,7 +12,7 @@ Kelmarin masa random2 buka tv tertengok satu konten rancangan menarik yg buat sa
 actually masa belajar tahun 2013 lagi dah dengar2 diorg ada test run dekat yamanashi track tu tapi masa tu tak de la betul2 minat nak search. Tahu2 bila tertengok balik channel ni, baru tahu train tu da dekat nak deploy to public use. Terkezut jap. (Pembetulan, official opening dijangkakan 2027, tapi untuk orang awam boleh pergi experience dekat track khas adalah dijangkakan tahun ini.
 .
 
-Sedikit trivia tentang Maglev ni. Teknologi yg digunakan untuk train ini agak berbeza dengan "conventional" train dimana train jenis ini menggunakan "electromagnetic propulsion". (magnetic levitation) untuk bergerak. Basically terapung di atas railway disebabkan oleh daya tolak magnet yang dihasilkan oleh superconductor.
+Sedikit trivia tentang Maglev ni. Teknologi yg digunakan untuk train ini agak berbeza dengan "conventional" train dimana train jenis ini menggunakan "electromagnetic propulsion". (magnetic levitation) untuk bergerak. Basically terapung di atas railway disebabkan oleh daya tolak magnet yang dihasilkan oleh superconductor. Untuk pembacaan yang lebih detail, boleh rujuk di [sini](https://science.howstuffworks.com/transport/engines-equipment/maglev-train.htm) 
 .
 
 Apa benefit maglev ni? Pertama, bila kereta ni terapung di atas landasan, means less vibration (lebih selesa) dan less friction (kurang maintainance cost disebabkan wear and tear). 

@@ -31,7 +31,7 @@ function Bio() {
               }}
             />
             <p>
-              A blog by <strong>{author}</strong> to compile his dev journey.
+              A blog by <strong>{author}</strong>
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow him on Twitter
